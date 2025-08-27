@@ -1,0 +1,33 @@
+❯ python lin_find.py
+Sweeping baud rates...
+Candidate baud 8160, frames: 33
+Candidate baud 8256, frames: 33
+Candidate baud 8352, frames: 33
+Candidate baud 8448, frames: 34
+Candidate baud 8544, frames: 34
+Candidate baud 8640, frames: 34
+Candidate baud 8736, frames: 34
+Candidate baud 8832, frames: 33
+Candidate baud 8928, frames: 33
+Candidate baud 9024, frames: 33
+Candidate baud 9120, frames: 34
+Candidate baud 9216, frames: 34
+Candidate baud 9312, frames: 33
+Candidate baud 9408, frames: 33
+Candidate baud 9504, frames: 33
+Candidate baud 9600, frames: 34
+Candidate baud 8854, frames: 33
+Candidate baud 8958, frames: 33
+Candidate baud 9062, frames: 33
+Candidate baud 9166, frames: 33
+Candidate baud 9270, frames: 33
+Candidate baud 9374, frames: 33
+Candidate baud 9478, frames: 33
+Candidate baud 9582, frames: 33
+
+✅ Best match: 8448 baud
+PID: 0x06, Data: ['0x2', '0x2', '0x1a', '0x1', '0x76', '0x30', '0x0', '0x15']
+PID: 0x50, Data: ['0x0', '0x0', '0xff', '0x0', '0x55', '0x20', '0x0', '0x0']
+PID: 0x20, Data: ['0x0', '0x0', '0x0', '0x0', '0xff', '0x0', '0x55', '0x32']
+PID: 0x32, Data: ['0x20', '0x20', '0x20', '0x63', '0x80', '0x76', '0x30', '0x0']
+PID: 0x50, Data: ['0x0', '0x0', '0xff', '0x0', '0x55', '0x20', '0x0', '0x0']
